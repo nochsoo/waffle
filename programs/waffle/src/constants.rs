@@ -1,0 +1,1 @@
+pub const MAX_ENTRIES: usize = 10000;

@@ -2,7 +2,7 @@
 seeds = false
 skip-lint = false
 [programs.localnet]
-waffle = "Fg6PaFpoGXkYsidMpWTK6W2BeZ7FEfcYkg476zPFsLnS"
+waffle = "86oWnMivppjGV2CDiESKjfTSuNra1kRgPY82QxNgjZJs"
 
 [registry]
 url = "https://api.apr.dev"
